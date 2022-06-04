@@ -1,3 +1,8 @@
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Did this code successfully run on Leetcode: No (TLE)
+// Any problem you faced while coding this: Refered lecture video for coding
+
 public class coinChange {
 
     public static int coinChange(int[] coins, int amount) {
